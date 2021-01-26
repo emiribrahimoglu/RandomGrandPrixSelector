@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\bin\Release\Pick_RandomGP_Track.exe.config
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\bin\Release\Pick_RandomGP_Track.exe
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\bin\Release\Pick_RandomGP_Track.pdb
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Select_RandomGP_Track.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Pick_RandomGP_Track.RandomGP.resources
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Pick_RandomGP_Track.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Select_RandomGP_Track.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Select_RandomGP_Track.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Pick_RandomGP_Track.exe
+C:\Users\Administrator\source\repos\Pick_RandomGP_Track\Pick_RandomGP_Track\obj\Release\Pick_RandomGP_Track.pdb
