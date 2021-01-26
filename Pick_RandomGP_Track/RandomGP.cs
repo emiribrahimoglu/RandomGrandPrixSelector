@@ -108,7 +108,7 @@ namespace Pick_RandomGP_Track
                     tracksListArray = tracksListBox.Items.OfType<string>().ToArray();
                     File.WriteAllLines(fullFilePath, tracksListArray);
                 }
-                else
+                else if (fullFilePath == null && overwriteImportedFileCheckbox.Checked)
                 {
                     MessageBox.Show("You can't overwrite without importing a track list. You need to import a track list first.", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
